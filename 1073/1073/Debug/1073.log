@@ -1,0 +1,6 @@
+﻿  源.cpp
+d:\pat\1073\1073\源.cpp(22): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(2263): note: 参见“sscanf”的声明
+d:\pat\1073\1073\源.cpp(30): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  1073.vcxproj -> D:\PAT\1073\Debug\1073.exe

@@ -1,0 +1,12 @@
+﻿  源.cpp
+d:\pat\1002\源.cpp(22): warning C4477: “scanf”: 格式字符串“%f”需要类型“float *”的参数，但可变参数 2 拥有了类型“int *”
+d:\pat\1002\源.cpp(23): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\pat\1002\源.cpp(31): warning C4477: “scanf”: 格式字符串“%f”需要类型“float *”的参数，但可变参数 2 拥有了类型“int *”
+d:\pat\1002\源.cpp(32): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\pat\1002\源.cpp(14): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+d:\pat\1002\源.cpp(22): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+d:\pat\1002\源.cpp(31): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  1002.vcxproj -> D:\PAT\1002\1002\Debug\1002.exe
